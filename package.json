@@ -1,0 +1,25 @@
+{
+  "name": "pure-javascript-exel",
+  "version": "1.0.0",
+  "description": "javascript exel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oleynikyurij/Pure-Javascript-exel.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "webpack"
+  ],
+  "author": "Yurij Ol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleynikyurij/Pure-Javascript-exel/issues"
+  },
+  "homepage": "https://github.com/oleynikyurij/Pure-Javascript-exel#readme"
+}
